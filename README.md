@@ -147,7 +147,12 @@
 		<img height=205 src="/assets/profile-trophy.svg" alt="GitHub Profile Trophy" title="GitHub Profile Trophy" />
 	</a>
  	<a href="https://github.com/Platane/snk">
-		<img src="https://raw.githubusercontent.com/GreenComfyTea/GreenComfyTea/snake/contribution-grid-snake-dark.svg" alt="GitHub Contributioon Grid Snake Game" title="GitHub Contributioon Grid Snake Game" />
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GreenComfyTea/GreenComfyTea/snake/contribution-grid-snake-dark.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GreenComfyTea/GreenComfyTea/snake/contribution-grid-snake.svg" />
+			<img src="https://raw.githubusercontent.com/GreenComfyTea/GreenComfyTea/snake/contribution-grid-snake-dark.svg" alt="GitHub Contributioon Grid Snake Game" title="GitHub Contributioon Grid Snake Game" />
+		</picture>
+		<img src=""  />
 	</a>
 </p>
 
