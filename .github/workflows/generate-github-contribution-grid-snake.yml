@@ -1,4 +1,4 @@
-name: Generate Snake Commit Grid
+name: Generate GitHub Contribution Grid Snake
 
 on:
   # Allows to manually run the job at any time
@@ -20,16 +20,18 @@ jobs:
     
     steps:
       # Generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate contribution-grid-snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/sname-commit-grid.svg
+            dist/contribution-grid-snake.svg
+            dist/contribution-grid-snake.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
       # Push the content of <build_dir> to a branch
       # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Push sname-commit-grid.svg to the Output Branch
+      - name: Push contribution-grid-snake SVGs to the Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: snake
