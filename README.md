@@ -152,7 +152,6 @@
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GreenComfyTea/GreenComfyTea/snake/contribution-grid-snake.svg" />
 			<img src="https://raw.githubusercontent.com/GreenComfyTea/GreenComfyTea/snake/contribution-grid-snake-dark.svg" alt="GitHub Contributioon Grid Snake Game" title="GitHub Contributioon Grid Snake Game" />
 		</picture>
-		<img src=""  />
 	</a>
 </p>
 
