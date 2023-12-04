@@ -11,7 +11,7 @@ on:
 jobs:
   download-assets:
     runs-on: ubuntu-latest
-    name: Download assets
+    name: Download Assets
 
     steps:
 
@@ -91,7 +91,8 @@ jobs:
       - name: Download MapleStory.IO.GifDownloader Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=maplestory.io.gifdownloader&theme=radical' -o maplestory-io-gifdownloader-pin.svg
         
-      - name: Upload artifacts
+        
+      - name: Upload Artifacts
         uses: actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32 # v3
         with:
           name: assets
@@ -119,7 +120,7 @@ jobs:
             image-processing-pin.svg
             gradient-generator-pin.svg
             maplestory-io-gifdownloader-pin.svg
-			
+
   push-assets:
     runs-on: ubuntu-latest
     name: Push assets
