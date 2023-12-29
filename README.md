@@ -205,15 +205,18 @@
 		<img height=147 src="/assets/duplicate-emote-check-tool-pin.svg" alt="Duplicate Emote Check Tool" title="Duplicate Emote Check Tool">
 	</a>
 	<br>
+	<a href="https://github.com/GreenComfyTea/twitch-community-map">
+		<img height=146 src="/assets/twitch-community-map-pin.svg" alt="Twitch Community Map" title="Twitch Community Map">
+	</a>
 	<a href="https://github.com/GreenComfyTea/dvd-overlay">
 		<img height=146 src="/assets/dvd-overlay-pin.svg" alt="DVD Overlay" title="DVD Overlay">
-	</a>
-	<a href="https://github.com/GreenComfyTea/Twitch-Emotes-Downloader">
-		<img height=147 src="/assets/twitch-emotes-downloader-pin.svg" alt="Twitch Emotes Downloader" title="Twitch Emotes Downloader">
 	</a>
 	<br>
 	<a href="https://github.com/GreenComfyTea/Streamer-Speech-Bubble">
 		<img height=146 src="/assets/streamer-speech-bubble-pin.svg" alt="Streamer Speech Bubble" title="Streamer Speech Bubble">
+	</a>
+	<a href="https://github.com/GreenComfyTea/Twitch-Emotes-Downloader">
+		<img height=147 src="/assets/twitch-emotes-downloader-pin.svg" alt="Twitch Emotes Downloader" title="Twitch Emotes Downloader">
 	</a>
 </p>
 
