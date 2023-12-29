@@ -71,16 +71,19 @@ jobs:
         
       - name: Download Duplicate Emote Check Tool Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=duplicate-emote-check-tool&theme=radical' -o duplicate-emote-check-tool-pin.svg
+
+      - name: Download Twitch Community Map Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=twitch-community-map&theme=radical' -o twitch-community-map-pin.svg
         
       - name: Download DVD Overlay Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=dvd-overlay&theme=radical' -o dvd-overlay-pin.svg
+
+      - name: Download Streamer Speech Bubble Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=streamer-speech-bubble&theme=radical' -o streamer-speech-bubble-pin.svg
         
       - name: Download Twitch Emotes Downloader Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=twitch-emotes-downloader&theme=radical' -o twitch-emotes-downloader-pin.svg
       
-      - name: Download Streamer Speech Bubble Pin File
-        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=streamer-speech-bubble&theme=radical' -o streamer-speech-bubble-pin.svg
-
         
       - name: Download Image Processing Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=image-processing&theme=radical' -o image-processing-pin.svg
