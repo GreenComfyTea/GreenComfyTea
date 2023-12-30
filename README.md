@@ -7,7 +7,7 @@
 		<img src="/assets/about-me.svg" alt="About Me" title="About Me">
 	</a>
 </p>
-
+ 
 <p align=center>
 	<a href="https://twitch.tv/GreenComfyTea">
 		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/twitch/twitch.svg" alt="Twitch" title="Twitch" height=32>
