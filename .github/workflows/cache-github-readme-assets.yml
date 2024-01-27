@@ -122,6 +122,8 @@ jobs:
             mhr-loadout-wipe-pin.svg
             re4-health-bars-pin.svg
             re4-damage-numbers-pin.svg
+            re-village-health-bars-pin.svg
+            re-village-damage-numbers-pin.svg
             obs-stats-on-stream-pin.svg
             duplicate-emote-check-tool-pin.svg
             twitch-community-map-pin.svg
