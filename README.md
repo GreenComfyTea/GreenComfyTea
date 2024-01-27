@@ -184,6 +184,18 @@
 	</a>
 </p>
 
+
+## Resident Evil Village Mods
+
+<p>
+	<a href="https://github.com/GreenComfyTea/RE-Village-Health-Bars">
+		<img height=146 src="/assets/re-village-health-bars-pin.svg" alt="RE Village Health Bars" title="RE Village Health Bars">
+	</a>
+	<a href="https://github.com/GreenComfyTea/RE-Village-Damage-Numbers">
+		<img height=147 src="/assets/re-village-damage-numbers-pin.svg" alt="RE Village Damage Numbers" title="RE Village Damage Numbers">
+	</a>
+</p>
+
 ## Resident Evil 4 Mods
 
 <p>
