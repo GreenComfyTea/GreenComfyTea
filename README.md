@@ -155,7 +155,7 @@
 	</a>
 </p>
 
-## Monster Hunter: Rise Mods
+## Monster Hunter Rise Mods
 
 <p>
 	<a href="https://github.com/GreenComfyTea/MHR-Overlay">
