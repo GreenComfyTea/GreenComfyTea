@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Monster Hunter: Rise Mod - Overlay mod that exposes</tspan><tspan dy="1.2em" x="25">internal game data about monsters, creatures, players,</tspan><tspan dy="1.2em" x="25">damage, buffs and debuffs.</tspan>
+      <tspan dy="1.2em" x="25">Monster Hunter Rise Mod - Overlay mod that exposes internal</tspan><tspan dy="1.2em" x="25">game data about monsters, creatures, players, damage, buffs</tspan><tspan dy="1.2em" x="25">and debuffs.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
