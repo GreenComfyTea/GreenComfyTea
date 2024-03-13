@@ -37,6 +37,10 @@ jobs:
         run: curl 'https://github-profile-trophy.vercel.app/?username=GreenComfyTea&theme=radical&column=5&margin-w=4&margin-h=6' -o profile-trophy.svg
 
 
+      - name: Download MHW Better Matchmaking Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhw-better-matchmaking&theme=radical' -o mhw-better-matchmaking-pin.svg
+
+
       - name: Download MHR Overlay Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhr-overlay&theme=radical' -o mhr-overlay-pin.svg
 
@@ -113,6 +117,7 @@ jobs:
             top-langs.svg
             streak-stats.svg
             profile-trophy.svg
+            mhw-better-matchmaking-pin.svg
             mhr-overlay-pin.svg
             mhr-better-matchmaking-pin.svg
             mhr-no-more-blinking-icons-pin.svg
