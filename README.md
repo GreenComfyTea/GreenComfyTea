@@ -155,6 +155,14 @@
 	</a>
 </p>
 
+## Monster Hunter: World Mods
+
+<p>
+	<a href="https://github.com/GreenComfyTea/MHW-Better-Matchmaking">
+		<img height=157 src="/assets/mhw-better-matchmaking-pin.svg" alt="MHW Better Matchmaking" title="MHW Better Matchmaking">
+	</a>
+</p>
+
 ## Monster Hunter Rise Mods
 
 <p>
