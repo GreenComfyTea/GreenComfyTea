@@ -192,7 +192,15 @@
 	</a>
 </p>
 
-## Resident Evil 4 Mods
+## Resident Evil 2 Remake Mods
+
+<p>
+	<a href="https://github.com/GreenComfyTea/RE2-Damage-Numbers">
+		<img height=147 src="/assets/re2-damage-numbers-pin.svg" alt="RE2 Damage Numbers" title="RE2 Damage Numbers">
+	</a>
+</p>
+
+## Resident Evil 4 Remake Mods
 
 <p>
 	<a href="https://github.com/GreenComfyTea/RE4-Health-Bars">
