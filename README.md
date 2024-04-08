@@ -195,8 +195,22 @@
 ## Resident Evil 2 Remake Mods
 
 <p>
+	<a href="https://github.com/GreenComfyTea/RE2-Health-Bars">
+		<img height=146 src="/assets/re2-health-bars-pin.svg" alt="RE2 Health Bars" title="RE2 Health Bars">
+	</a>
 	<a href="https://github.com/GreenComfyTea/RE2-Damage-Numbers">
 		<img height=147 src="/assets/re2-damage-numbers-pin.svg" alt="RE2 Damage Numbers" title="RE2 Damage Numbers">
+	</a>
+</p>
+
+## Resident Evil 3 Remake Mods
+
+<p>
+	<a href="https://github.com/GreenComfyTea/RE3-Health-Bars">
+		<img height=146 src="/assets/re3-health-bars-pin.svg" alt="RE2 Health Bars" title="RE3 Health Bars">
+	</a>
+	<a href="https://github.com/GreenComfyTea/RE2-Damage-Numbers">
+		<img height=147 src="/assets/re3-damage-numbers-pin.svg" alt="RE3 Damage Numbers" title="RE3 Damage Numbers">
 	</a>
 </p>
 
