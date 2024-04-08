@@ -63,8 +63,19 @@ jobs:
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhr-loadout-wipe&theme=radical' -o mhr-loadout-wipe-pin.svg
 
 
+      - name: Download RE2 Health Bars Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re2-health-bars&theme=radical' -o re2-health-bars-pin.svg
+      
       - name: Download RE2 Damage Numbers Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re2-damage-numbers&theme=radical' -o re2-damage-numbers-pin.svg
+
+
+      - name: Download RE3 Health Bars Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re3-health-bars&theme=radical' -o re3-health-bars-pin.svg
+      
+      - name: Download RE3 Damage Numbers Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re3-damage-numbers&theme=radical' -o re3-damage-numbers-pin.svg
+
 
       - name: Download RE4 Health Bars Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re4-health-bars&theme=radical' -o re4-health-bars-pin.svg
@@ -128,7 +139,10 @@ jobs:
             mhr-bloated-displayed-attack-pin.svg
             mhr-forced-display-settings-pin.svg
             mhr-loadout-wipe-pin.svg
+            re2-health-bars-pin.svg
             re2-damage-numbers-pin.svg
+            re3-health-bars-pin.svg
+            re3-damage-numbers-pin.svg
             re4-health-bars-pin.svg
             re4-damage-numbers-pin.svg
             re-village-health-bars-pin.svg
