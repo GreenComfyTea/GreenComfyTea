@@ -225,6 +225,17 @@
 	</a>
 </p>
 
+## Resident Evil 7 Mods
+
+<p>
+	<a href="https://github.com/GreenComfyTea/RE7-Health-Bars">
+		<img height=146 src="/assets/re7-health-bars-pin.svg" alt="RE7 Health Bars" title="RE7 Health Bars">
+	</a>
+	<a href="https://github.com/GreenComfyTea/RE7-Damage-Numbers">
+		<img height=147 src="/assets/re7-damage-numbers-pin.svg" alt="RE7 Damage Numbers" title="RE7 Damage Numbers">
+	</a>
+</p>
+
 ## Resident Evil Village Mods
 
 <p>
