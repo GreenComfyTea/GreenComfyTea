@@ -84,6 +84,13 @@ jobs:
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re4-damage-numbers&theme=radical' -o re4-damage-numbers-pin.svg
 
 
+      - name: Download RE7 Health Bars Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re7-health-bars&theme=radical' -o re7-health-bars-pin.svg
+
+      - name: Download RE7 Damage Numbers Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re7-damage-numbers&theme=radical' -o re7-damage-numbers-pin.svg
+
+
       - name: Download RE Village Health Bars Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re-village-health-bars&theme=radical' -o re-village-health-bars-pin.svg
 
@@ -145,6 +152,8 @@ jobs:
             re3-damage-numbers-pin.svg
             re4-health-bars-pin.svg
             re4-damage-numbers-pin.svg
+            re7-health-bars-pin.svg
+            re7-damage-numbers-pin.svg
             re-village-health-bars-pin.svg
             re-village-damage-numbers-pin.svg
             obs-stats-on-stream-pin.svg
