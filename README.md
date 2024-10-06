@@ -158,6 +158,9 @@
 ## Monster Hunter: World Mods
 
 <p>
+	<a href="https://github.com/GreenComfyTea/MHW-Yet-Another-Overlay-Interface">
+		<img height=157 src="/assets/mhw-yet-another-overlay-interface-pin.svg" alt="MHW Yet Another Overlay Interface" title="MHW Yet Another Overlay Interface">
+	</a>
 	<a href="https://github.com/GreenComfyTea/MHW-Better-Matchmaking">
 		<img height=157 src="/assets/mhw-better-matchmaking-pin.svg" alt="MHW Better Matchmaking" title="MHW Better Matchmaking">
 	</a>
