@@ -125,7 +125,7 @@
 		<img src="https://github.com/devicons/devicon/raw/master/icons/maya/maya-original.svg" alt="Autodesk Maya" title="Autodesk Maya" height=48 />
 	</a>
 		<a href="https://figma.com">
-		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/figma/figma.svg" alt="Figma" title="Figma" height=48 />
+		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/figma/figma.svg" alt="Figma" title="Figma" height=48 />
 	</a>
 </p>
 
@@ -155,11 +155,19 @@
 	</a>
 </p>
 
+## Monster Hunter Wilds Mods
+
+<p>
+	<a href="https://github.com/GreenComfyTea/MHWs-YURI-Overlay">
+		<img height=157 src="/assets/mhws-yuri-overlay-pin.svg" alt="MHWs YURI Overlay" title="MHWs YURI Overlay">
+	</a>
+</p>
+
 ## Monster Hunter: World Mods
 
 <p>
 	<a href="https://github.com/GreenComfyTea/MHW-Yet-Another-Overlay-Interface">
-		<img height=157 src="/assets/mhw-yet-another-overlay-interface-pin.svg" alt="MHW Yet Another Overlay Interface" title="MHW Yet Another Overlay Interface">
+		<img height=157 src="/assets/mhw-yaoi-overlay-pin.svg" alt="MHW YAOI Overlay" title="MHW YAOI Overlay">
 	</a>
 	<a href="https://github.com/GreenComfyTea/MHW-Better-Matchmaking">
 		<img height=157 src="/assets/mhw-better-matchmaking-pin.svg" alt="MHW Better Matchmaking" title="MHW Better Matchmaking">
