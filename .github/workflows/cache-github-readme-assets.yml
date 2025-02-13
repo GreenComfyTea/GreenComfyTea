@@ -135,7 +135,7 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: assets-${{ matrix.runs-on }}
+          name: assetxs-${{ matrix.runs-on }}
           path: |
             nickname.svg
             about-me.svg
@@ -181,13 +181,10 @@ jobs:
       - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       - uses: actions/download-artifact@v4
         with:
+          pattern: assets-*
           path: assets
       - uses: stefanzweifel/git-auto-commit-action@8756aa072ef5b4a080af5dc8fef36c5d586e521d # v5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: "chore(assets): Update Cached GRS Files"
-          branch: main
-          commit_user_name: github-readme-stats 🤖
-          commit_user_email: actions@github.com
-          commit_author: github-readme-stats 🤖 <actions@github.com>
+          commit_message: "chore(assets): Update cached files"
