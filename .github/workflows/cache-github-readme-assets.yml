@@ -36,9 +36,11 @@ jobs:
       - name: Download Github Profile Trophy File
         run: curl 'https://github-profile-trophy.vercel.app/?username=GreenComfyTea&theme=radical&column=5&margin-w=4&margin-h=6' -o profile-trophy.svg
 
+      - name: Download MHWs YURI Overlay Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhws-yuri-overlay&theme=radical' -o mhw-yuri-overlay-pin.svg
 
-      - name: Download MHW Yet Another Overlay Interface Pin File
-        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhw-yet-another-overlay-interface&theme=radical' -o mhw-yet-another-overlay-interface-pin.svg
+      - name: Download MHW YAOI Overlay Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhw-yet-another-overlay-interface&theme=radical' -o mhw-yaoi-overlay-pin.svg
       
       - name: Download MHW Better Matchmaking Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhw-better-matchmaking&theme=radical' -o mhw-better-matchmaking-pin.svg
@@ -141,7 +143,8 @@ jobs:
             top-langs.svg
             streak-stats.svg
             profile-trophy.svg
-            mhw-yet-another-overlay-interface-pin.svg
+            mhws-yuri-overlay-pin.svg
+            mhw-yaoi-overlay-pin.svg
             mhw-better-matchmaking-pin.svg
             mhr-overlay-pin.svg
             mhr-better-matchmaking-pin.svg
