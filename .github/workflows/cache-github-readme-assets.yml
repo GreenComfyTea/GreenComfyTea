@@ -187,4 +187,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: "chore(assets): Update cached files"
+          commit_message: "chore(assets): Update Cached GRS Files"
+          branch: main
+          commit_user_name: github-readme-stats 🤖
+          commit_user_email: actions@github.com
+          commit_author: github-readme-stats 🤖 <actions@github.com>
