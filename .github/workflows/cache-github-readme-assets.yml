@@ -39,8 +39,9 @@ jobs:
       - name: Download MHWs YURI Overlay Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhws-yuri-overlay&theme=radical' -o mhws-yuri-overlay-pin.svg
 
+
       - name: Download MHW YAOI Overlay Pin File
-        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhw-yet-another-overlay-interface&theme=radical' -o mhw-yaoi-overlay-pin.svg
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=MHW-yaoi-overlay&theme=radical' -o mhw-yaoi-overlay-pin.svg
       
       - name: Download MHW Better Matchmaking Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=mhw-better-matchmaking&theme=radical' -o mhw-better-matchmaking-pin.svg
