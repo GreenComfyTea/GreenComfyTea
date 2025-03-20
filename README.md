@@ -166,7 +166,7 @@
 ## Monster Hunter: World Mods
 
 <p>
-	<a href="https://github.com/GreenComfyTea/MHW-Yet-Another-Overlay-Interface">
+	<a href="https://github.com/GreenComfyTea/MHW-YAOI-Overlay">
 		<img height=157 src="/assets/mhw-yaoi-overlay-pin.svg" alt="MHW YAOI Overlay" title="MHW YAOI Overlay">
 	</a>
 	<a href="https://github.com/GreenComfyTea/MHW-Better-Matchmaking">
