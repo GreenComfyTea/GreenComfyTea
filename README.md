@@ -107,7 +107,7 @@
 		<img src="/assets/davinci-resolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve" height=48 />
 	</a>
 	<a href="https://adobe.com/products/photoshop.html">
-		<img src="/assets/adobe-hotoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height=48 />
+		<img src="/assets/adobe-photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height=48 />
 	</a>
 		<a href="https://adobe.com/products/illustrator.html">
 		<img src="/assets/adobe-illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height=48 />
