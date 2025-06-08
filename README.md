@@ -134,17 +134,17 @@
 
 <p >
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="/assets/stats.svg" alt="GitHub Readme Stats" title="GitHub Readme Stats" />
+		<img height=192 src="/assets/stats.svg" alt="GitHub Readme Stats" title="GitHub Readme Stats" />
 	</a>
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img src="/assets/streak-stats.svg" alt="GitHub Readme Streak Stats" title="GitHub Readme Streak Stats" />
+		<img height=192 src="/assets/streak-stats.svg" alt="GitHub Readme Streak Stats" title="GitHub Readme Streak Stats" />
 	</a>
 	<br>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height=205 src="/assets/top-langs.svg" alt="GitHub Readme Top Languages Stats" title="GitHub Readme Top Languages Stats" />
+		<img height=211 src="/assets/top-langs.svg" alt="GitHub Readme Top Languages Stats" title="GitHub Readme Top Languages Stats" />
 	</a>
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img height=205 src="/assets/profile-trophy.svg" alt="GitHub Profile Trophy" title="GitHub Profile Trophy" />
+		<img height=211 src="/assets/profile-trophy.svg" alt="GitHub Profile Trophy" title="GitHub Profile Trophy" />
 	</a>
  	<a href="https://github.com/Platane/snk">
 		<picture>
@@ -159,7 +159,7 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/MHWs-YURI-Overlay">
-		<img height=157 src="/assets/mhws-yuri-overlay-pin.svg" alt="MHWs YURI Overlay" title="MHWs YURI Overlay">
+		<img height=154 src="/assets/mhws-yuri-overlay-pin.svg" alt="MHWs YURI Overlay" title="MHWs YURI Overlay">
 	</a>
 </p>
 
@@ -167,10 +167,10 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/MHW-YAOI-Overlay">
-		<img height=157 src="/assets/mhw-yaoi-overlay-pin.svg" alt="MHW YAOI Overlay" title="MHW YAOI Overlay">
+		<img height=154 src="/assets/mhw-yaoi-overlay-pin.svg" alt="MHW YAOI Overlay" title="MHW YAOI Overlay">
 	</a>
 	<a href="https://github.com/GreenComfyTea/MHW-Better-Matchmaking">
-		<img height=157 src="/assets/mhw-better-matchmaking-pin.svg" alt="MHW Better Matchmaking" title="MHW Better Matchmaking">
+		<img height=154 src="/assets/mhw-better-matchmaking-pin.svg" alt="MHW Better Matchmaking" title="MHW Better Matchmaking">
 	</a>
 </p>
 
@@ -178,28 +178,28 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/MHR-Overlay">
-		<img height=157 src="/assets/mhr-overlay-pin.svg" alt="MHR Overlay" title="MHR Overlay">
+		<img height=154 src="/assets/mhr-overlay-pin.svg" alt="MHR Overlay" title="MHR Overlay">
 	</a>
 	<a href="https://github.com/GreenComfyTea/MHR-Better-Matchmaking">
-		<img height=157 src="/assets/mhr-better-matchmaking-pin.svg" alt="MHR Better Matchmaking" title="MHR Better Matchmaking">
+		<img height=154 src="/assets/mhr-better-matchmaking-pin.svg" alt="MHR Better Matchmaking" title="MHR Better Matchmaking">
 	</a>
 	<br>
 	<a href="https://github.com/GreenComfyTea/MHR-No-More-Blinking-Icons">
-		<img height=146 src="/assets/mhr-no-more-blinking-icons-pin.svg" alt="MHR No More Blinking Icons" title="MHR No More Blinking Icons">
+		<img height=144 src="/assets/mhr-no-more-blinking-icons-pin.svg" alt="MHR No More Blinking Icons" title="MHR No More Blinking Icons">
 	</a>
 	<a href="https://github.com/GreenComfyTea/MHR-Adjustable-Damage-Number-Size">
-		<img height=147 src="/assets/mhr-adjustable-damage-number-size-pin.svg" alt="MHR Adjustable Damage Number Size" title="MHR Adjustable Damage Number Size">
+		<img height=144 src="/assets/mhr-adjustable-damage-number-size-pin.svg" alt="MHR Adjustable Damage Number Size" title="MHR Adjustable Damage Number Size">
 	</a>
 	<br>
 		<a href="https://github.com/GreenComfyTea/MHR-Bloated-Displayed-Attack">
-		<img height=157 src="/assets/mhr-bloated-displayed-attack-pin.svg" alt="MHR Bloated Displayed Attack" title="MHR Bloated Displayed Attack">
+		<img height=154 src="/assets/mhr-bloated-displayed-attack-pin.svg" alt="MHR Bloated Displayed Attack" title="MHR Bloated Displayed Attack">
 	</a>
 	<a href="https://github.com/GreenComfyTea/MHR-Forced-Display-Settings">
-		<img height=157 src="/assets/mhr-forced-display-settings-pin.svg" alt="MHR Forced Display Settings" title="MHR Forced Display Settings">
+		<img height=154 src="/assets/mhr-forced-display-settings-pin.svg" alt="MHR Forced Display Settings" title="MHR Forced Display Settings">
 	</a>
 	<br>
 	<a href="https://github.com/GreenComfyTea/MHR-Loadout-Wipe">
-		<img height=146 src="/assets/mhr-loadout-wipe-pin.svg" alt="MHR Loadout Wipe" title="MHR Loadout Wipe">
+		<img height=144 src="/assets/mhr-loadout-wipe-pin.svg" alt="MHR Loadout Wipe" title="MHR Loadout Wipe">
 	</a>
 </p>
 
@@ -207,10 +207,10 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/RE2-Health-Bars">
-		<img height=146 src="/assets/re2-health-bars-pin.svg" alt="RE2 Health Bars" title="RE2 Health Bars">
+		<img height=144 src="/assets/re2-health-bars-pin.svg" alt="RE2 Health Bars" title="RE2 Health Bars">
 	</a>
 	<a href="https://github.com/GreenComfyTea/RE2-Damage-Numbers">
-		<img height=147 src="/assets/re2-damage-numbers-pin.svg" alt="RE2 Damage Numbers" title="RE2 Damage Numbers">
+		<img height=144 src="/assets/re2-damage-numbers-pin.svg" alt="RE2 Damage Numbers" title="RE2 Damage Numbers">
 	</a>
 </p>
 
@@ -218,10 +218,10 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/RE3-Health-Bars">
-		<img height=146 src="/assets/re3-health-bars-pin.svg" alt="RE2 Health Bars" title="RE3 Health Bars">
+		<img height=144 src="/assets/re3-health-bars-pin.svg" alt="RE2 Health Bars" title="RE3 Health Bars">
 	</a>
 	<a href="https://github.com/GreenComfyTea/RE3-Damage-Numbers">
-		<img height=147 src="/assets/re3-damage-numbers-pin.svg" alt="RE3 Damage Numbers" title="RE3 Damage Numbers">
+		<img height=144 src="/assets/re3-damage-numbers-pin.svg" alt="RE3 Damage Numbers" title="RE3 Damage Numbers">
 	</a>
 </p>
 
@@ -229,10 +229,10 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/RE4-Health-Bars">
-		<img height=146 src="/assets/re4-health-bars-pin.svg" alt="RE4 Health Bars" title="RE4 Health Bars">
+		<img height=144 src="/assets/re4-health-bars-pin.svg" alt="RE4 Health Bars" title="RE4 Health Bars">
 	</a>
 	<a href="https://github.com/GreenComfyTea/RE4-Damage-Numbers">
-		<img height=147 src="/assets/re4-damage-numbers-pin.svg" alt="RE4 Damage Numbers" title="RE4 Damage Numbers">
+		<img height=144 src="/assets/re4-damage-numbers-pin.svg" alt="RE4 Damage Numbers" title="RE4 Damage Numbers">
 	</a>
 </p>
 
@@ -240,10 +240,10 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/RE7-Health-Bars">
-		<img height=146 src="/assets/re7-health-bars-pin.svg" alt="RE7 Health Bars" title="RE7 Health Bars">
+		<img height=144 src="/assets/re7-health-bars-pin.svg" alt="RE7 Health Bars" title="RE7 Health Bars">
 	</a>
 	<a href="https://github.com/GreenComfyTea/RE7-Damage-Numbers">
-		<img height=147 src="/assets/re7-damage-numbers-pin.svg" alt="RE7 Damage Numbers" title="RE7 Damage Numbers">
+		<img height=144 src="/assets/re7-damage-numbers-pin.svg" alt="RE7 Damage Numbers" title="RE7 Damage Numbers">
 	</a>
 </p>
 
@@ -251,10 +251,10 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/RE-Village-Health-Bars">
-		<img height=146 src="/assets/re-village-health-bars-pin.svg" alt="RE Village Health Bars" title="RE Village Health Bars">
+		<img height=144 src="/assets/re-village-health-bars-pin.svg" alt="RE Village Health Bars" title="RE Village Health Bars">
 	</a>
 	<a href="https://github.com/GreenComfyTea/RE-Village-Damage-Numbers">
-		<img height=147 src="/assets/re-village-damage-numbers-pin.svg" alt="RE Village Damage Numbers" title="RE Village Damage Numbers">
+		<img height=144 src="/assets/re-village-damage-numbers-pin.svg" alt="RE Village Damage Numbers" title="RE Village Damage Numbers">
 	</a>
 </p>
 
@@ -262,24 +262,24 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/OBS-Stats-on-Stream">
-		<img height=146 src="/assets/obs-stats-on-stream-pin.svg" alt="OBS Stats on Stream" title="OBS Stats on Stream">
+		<img height=144 src="/assets/obs-stats-on-stream-pin.svg" alt="OBS Stats on Stream" title="OBS Stats on Stream">
 	</a>
 	<a href="https://github.com/GreenComfyTea/duplicate-emote-check-tool">
-		<img height=147 src="/assets/duplicate-emote-check-tool-pin.svg" alt="Duplicate Emote Check Tool" title="Duplicate Emote Check Tool">
+		<img height=144 src="/assets/duplicate-emote-check-tool-pin.svg" alt="Duplicate Emote Check Tool" title="Duplicate Emote Check Tool">
 	</a>
 	<br>
 	<a href="https://github.com/GreenComfyTea/twitch-community-map">
-		<img height=146 src="/assets/twitch-community-map-pin.svg" alt="Twitch Community Map" title="Twitch Community Map">
+		<img height=144 src="/assets/twitch-community-map-pin.svg" alt="Twitch Community Map" title="Twitch Community Map">
 	</a>
 	<a href="https://github.com/GreenComfyTea/dvd-overlay">
-		<img height=146 src="/assets/dvd-overlay-pin.svg" alt="DVD Overlay" title="DVD Overlay">
+		<img height=144 src="/assets/dvd-overlay-pin.svg" alt="DVD Overlay" title="DVD Overlay">
 	</a>
 	<br>
 	<a href="https://github.com/GreenComfyTea/Streamer-Speech-Bubble">
-		<img height=146 src="/assets/streamer-speech-bubble-pin.svg" alt="Streamer Speech Bubble" title="Streamer Speech Bubble">
+		<img height=144 src="/assets/streamer-speech-bubble-pin.svg" alt="Streamer Speech Bubble" title="Streamer Speech Bubble">
 	</a>
 	<a href="https://github.com/GreenComfyTea/Twitch-Emotes-Downloader">
-		<img height=147 src="/assets/twitch-emotes-downloader-pin.svg" alt="Twitch Emotes Downloader" title="Twitch Emotes Downloader">
+		<img height=144 src="/assets/twitch-emotes-downloader-pin.svg" alt="Twitch Emotes Downloader" title="Twitch Emotes Downloader">
 	</a>
 </p>
 
@@ -287,13 +287,13 @@
 
 <p>
 	<a href="https://github.com/GreenComfyTea/Image-Processing">
-		<img height=146 src="/assets/image-processing-pin.svg" alt="Image Processing" title="Image Processing">
+		<img height=144 src="/assets/image-processing-pin.svg" alt="Image Processing" title="Image Processing">
 	</a>
 	<a href="https://github.com/GreenComfyTea/Gradient-Generator">
-		<img height=147 src="/assets/gradient-generator-pin.svg" alt="Gradient Generator" title="Gradient Generator">
+		<img height=144 src="/assets/gradient-generator-pin.svg" alt="Gradient Generator" title="Gradient Generator">
 	</a>
 	<br>
 	<a href="https://github.com/GreenComfyTea/MapleStory.IO.GifDownloader">
-		<img height=146 src="/assets/maplestory-io-gifdownloader-pin.svg" alt="MapleStory.IO.GifDownloader" title="MapleStory.IO.GifDownloader">
+		<img height=144 src="/assets/maplestory-io-gifdownloader-pin.svg" alt="MapleStory.IO.GifDownloader" title="MapleStory.IO.GifDownloader">
 	</a>
 </p>
