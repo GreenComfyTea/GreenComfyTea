@@ -10,11 +10,11 @@
  
 <p align=center>
 	<a href="https://twitch.tv/GreenComfyTea">
-		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/twitch/twitch.svg" alt="Twitch" title="Twitch" height=32>
+		<img src=/assets/twitch.svg" alt="Twitch" title="Twitch" height=32>
 	</a>
 	&nbsp;
 	<a href="https://twitter.com/GreenComfyTea">
-		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/twitter/twitter.svg" alt="Twitter" title="Twitter" height=32>
+		<img src="/assets/twitter.svg" alt="Twitter" title="Twitter" height=32>
 	</a>
 	&nbsp;
 	<a href="https://greencomfytea.artstation.com">
@@ -22,7 +22,7 @@
 	</a>
 	&nbsp;
 	<a href="http://discord.gg/HyuVEyR">
-		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/discord/discord.svg" alt="Discord" title="Discord" height=32>
+		<img src="/assets/discord.svg" alt="Discord" title="Discord" height=32>
 	</a>
 </p>
 
