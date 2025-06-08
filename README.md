@@ -10,7 +10,7 @@
  
 <p align=center>
 	<a href="https://twitch.tv/GreenComfyTea">
-		<img src=/assets/twitch.svg" alt="Twitch" title="Twitch" height=32>
+		<img src="/assets/twitch.svg" alt="Twitch" title="Twitch" height=32>
 	</a>
 	&nbsp;
 	<a href="https://twitter.com/GreenComfyTea">
