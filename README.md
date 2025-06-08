@@ -38,19 +38,19 @@
 
 <p>
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" height=48 />
+		<img src="/assets/CS.svg" alt="C#" title="C#" height=48 />
 	</a>
 		<a href="https://learn.microsoft.com/en-us/dotnet">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" title=".NET" height=48 />
+		<img src="/assets/DotNet.svg" alt=".NET" title=".NET" height=48 />
 	</a>
 		<a href="https://lua.org">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Lua-Dark.svg" alt="Lua" title="Lua" height=48 />
+		<img src="/assets/Lua-Dark.svg" alt="Lua" title="Lua" height=48 />
 	</a>
 	<a href="https://visualstudio.microsoft.com">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" height=48 />
+		<img src="/assets/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" height=48 />
 	</a>
 		<a href="https://code.visualstudio.com">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height=48 />
+		<img src="/assets/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height=48 />
 	</a>
 </p>
 
@@ -58,37 +58,37 @@
 
 <p>
 	<a href="https://open-std.org/jtc1/sc22/wg14">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" title="C" height=48 />
+		<img src="/assets/C.svg" alt="C" title="C" height=48 />
 	</a>
 		<a href="https://isocpp.org">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" title="C++" height=48 />
+		<img src="/assets/CPP.svg" alt="C++" title="C++" height=48 />
 	</a>
 		<a href="https://www.javascript.com">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" height=48 />
+		<img src="/assets/JavaScript.svg" alt="JavaScript" title="JavaScript" height=48 />
 	</a>
 	<a href="https://nodejs.org">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height=48 />
+		<img src="/assets/nodejs-original.svg" alt="Node.js" title="Node.js" height=48 />
 	</a>
 	<a href="https://html.spec.whatwg.org">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" height=48 />
+		<img src="/assets/html5-original.svg" alt="HTML" title="HTML" height=48 />
 	</a>
 	<a href="https://www.w3.org/TR/CSS/">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" height=48 />
+		<img src="/assets/css3-original.svg" alt="CSS" title="CSS" height=48 />
 	</a>
 	<a href="https://www.java.com">
-		<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" title="Java" height=48 />
+		<img src="/assets/java-original.svg" alt="Java" title="Java" height=48 />
 	</a>
 	<a href="https://github.com">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" height=48 />
+		<img src="/assets/Github-Dark.svg" alt="GitHub" title="GitHub" height=48 />
 	</a>
 		<a href="https://github.github.com/gfm">
-		<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" alt="Markdown" title="Markdown" height=48 />
+		<img src="/assets/Markdown-Dark.svg" alt="Markdown" title="Markdown" height=48 />
 	</a>
 	<a href="https://android.com">
-		<img src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android" title="Android" height=48 />
+		<img src="/assets/android-plain.svg" alt="Android" title="Android" height=48 />
 	</a>
 	<a href="https://developer.android.com/studio">
-		<img src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height=48 />
+		<img src="/assets/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height=48 />
 	</a>
 	<a href="https://eclipse.org">
 		<img src="/assets/eclipse.png" alt="Eclipse" title="Eclipse" height=48 />
@@ -101,31 +101,31 @@
 		<img src="/assets/painttool-sai-2.png" alt="PaintTool SAI" title="PaintTool SAI" height=48 />
 	</a>
 	<a href="https://blender.org">
-		<img src="https://github.com/GreenComfyTea/GreenComfyTea/raw/main/assets/blender.svg" alt="Blender" title="Blender" height=48 />
+		<img src="/assets/blender.svg" alt="Blender" title="Blender" height=48 />
 	</a>
 		<a href="https://blackmagicdesign.com/products/davinciresolve">
-		<img src="https://github.com/GreenComfyTea/GreenComfyTea/raw/main/assets/davinci-resolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve" height=48 />
+		<img src="/assets/davinci-resolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve" height=48 />
 	</a>
 	<a href="https://adobe.com/products/photoshop.html">
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height=48 />
+		<img src="/assets/Photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height=48 />
 	</a>
 		<a href="https://adobe.com/products/illustrator.html">
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height=48 />
+		<img src="/assets/Illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height=48 />
 	</a>
 	<a href="https://adobe.com/products/premiere.html">
-		<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" alt="Adobe Premiere" title="Adobe Premiere" height=48 />
+		<img src="/assets/Premiere.svg" alt="Adobe Premiere" title="Adobe Premiere" height=48 />
 	</a>
 	<a href="https://gimp.org">
-		<img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-original.svg" alt="GIMP" title="GIMP" height=48 />
+		<img src="/assets/gimp-original.svg" alt="GIMP" title="GIMP" height=48 />
 	</a>
 	<a href="https://inkscape.org">
-		<img src="https://github.com/devicons/devicon/raw/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" height=48 />
+		<img src="/assets/inkscape-original.svg" alt="Inkscape" title="Inkscape" height=48 />
 	</a>
 	<a href="https://autodesk.com/products/maya/overview">
-		<img src="https://github.com/devicons/devicon/raw/master/icons/maya/maya-original.svg" alt="Autodesk Maya" title="Autodesk Maya" height=48 />
+		<img src="/assets/maya-original.svg" alt="Autodesk Maya" title="Autodesk Maya" height=48 />
 	</a>
 		<a href="https://figma.com">
-		<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/figma/figma.svg" alt="Figma" title="Figma" height=48 />
+		<img src="/assets/figma.svg" alt="Figma" title="Figma" height=48 />
 	</a>
 </p>
 
