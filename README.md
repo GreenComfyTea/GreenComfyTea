@@ -38,19 +38,19 @@
 
 <p>
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp">
-		<img src="/assets/CS.svg" alt="C#" title="C#" height=48 />
+		<img src="/assets/c-sharp.svg" alt="C#" title="C#" height=48 />
 	</a>
 		<a href="https://learn.microsoft.com/en-us/dotnet">
-		<img src="/assets/DotNet.svg" alt=".NET" title=".NET" height=48 />
+		<img src="/assets/dot-net.svg" alt=".NET" title=".NET" height=48 />
 	</a>
 		<a href="https://lua.org">
-		<img src="/assets/Lua-Dark.svg" alt="Lua" title="Lua" height=48 />
+		<img src="/assets/lua.svg" alt="Lua" title="Lua" height=48 />
 	</a>
 	<a href="https://visualstudio.microsoft.com">
-		<img src="/assets/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" height=48 />
+		<img src="/assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height=48 />
 	</a>
 		<a href="https://code.visualstudio.com">
-		<img src="/assets/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height=48 />
+		<img src="/assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height=48 />
 	</a>
 </p>
 
@@ -58,40 +58,40 @@
 
 <p>
 	<a href="https://open-std.org/jtc1/sc22/wg14">
-		<img src="/assets/C.svg" alt="C" title="C" height=48 />
+		<img src="/assets/c.svg" alt="C" title="C" height=48 />
 	</a>
 		<a href="https://isocpp.org">
-		<img src="/assets/CPP.svg" alt="C++" title="C++" height=48 />
+		<img src="/assets/cpp.svg" alt="C++" title="C++" height=48 />
 	</a>
 		<a href="https://www.javascript.com">
-		<img src="/assets/JavaScript.svg" alt="JavaScript" title="JavaScript" height=48 />
+		<img src="/assets/javascript.svg" alt="JavaScript" title="JavaScript" height=48 />
 	</a>
 	<a href="https://nodejs.org">
-		<img src="/assets/nodejs-original.svg" alt="Node.js" title="Node.js" height=48 />
+		<img src="/assets/nodejs.svg" alt="Node.js" title="Node.js" height=48 />
 	</a>
 	<a href="https://html.spec.whatwg.org">
-		<img src="/assets/html5-original.svg" alt="HTML" title="HTML" height=48 />
+		<img src="/assets/html5.svg" alt="HTML" title="HTML" height=48 />
 	</a>
 	<a href="https://www.w3.org/TR/CSS/">
-		<img src="/assets/css3-original.svg" alt="CSS" title="CSS" height=48 />
+		<img src="/assets/css3.svg" alt="CSS" title="CSS" height=48 />
 	</a>
 	<a href="https://www.java.com">
-		<img src="/assets/java-original.svg" alt="Java" title="Java" height=48 />
+		<img src="/assets/java.svg" alt="Java" title="Java" height=48 />
 	</a>
 	<a href="https://github.com">
-		<img src="/assets/Github-Dark.svg" alt="GitHub" title="GitHub" height=48 />
+		<img src="/assets/github.svg" alt="GitHub" title="GitHub" height=48 />
 	</a>
 		<a href="https://github.github.com/gfm">
-		<img src="/assets/Markdown-Dark.svg" alt="Markdown" title="Markdown" height=48 />
+		<img src="/assets/markdown.svg" alt="Markdown" title="Markdown" height=48 />
 	</a>
 	<a href="https://android.com">
-		<img src="/assets/android-plain.svg" alt="Android" title="Android" height=48 />
+		<img src="/assets/android.svg" alt="Android" title="Android" height=48 />
 	</a>
 	<a href="https://developer.android.com/studio">
-		<img src="/assets/androidstudio-original.svg" alt="Android Studio" title="Android Studio" height=48 />
+		<img src="/assets/android-studio.svg" alt="Android Studio" title="Android Studio" height=48 />
 	</a>
 	<a href="https://eclipse.org">
-		<img src="/assets/eclipse.png" alt="Eclipse" title="Eclipse" height=48 />
+		<img src="/assets/eclipse.svg" alt="Eclipse" title="Eclipse" height=48 />
 	</a>
 </p>
 
@@ -107,22 +107,22 @@
 		<img src="/assets/davinci-resolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve" height=48 />
 	</a>
 	<a href="https://adobe.com/products/photoshop.html">
-		<img src="/assets/Photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height=48 />
+		<img src="/assets/adobe-hotoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height=48 />
 	</a>
 		<a href="https://adobe.com/products/illustrator.html">
-		<img src="/assets/Illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height=48 />
+		<img src="/assets/adobe-illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height=48 />
 	</a>
 	<a href="https://adobe.com/products/premiere.html">
-		<img src="/assets/Premiere.svg" alt="Adobe Premiere" title="Adobe Premiere" height=48 />
+		<img src="/assets/adobe-premiere.svg" alt="Adobe Premiere" title="Adobe Premiere" height=48 />
 	</a>
 	<a href="https://gimp.org">
-		<img src="/assets/gimp-original.svg" alt="GIMP" title="GIMP" height=48 />
+		<img src="/assets/gimp.svg" alt="GIMP" title="GIMP" height=48 />
 	</a>
 	<a href="https://inkscape.org">
-		<img src="/assets/inkscape-original.svg" alt="Inkscape" title="Inkscape" height=48 />
+		<img src="/assets/inkscape.svg" alt="Inkscape" title="Inkscape" height=48 />
 	</a>
 	<a href="https://autodesk.com/products/maya/overview">
-		<img src="/assets/maya-original.svg" alt="Autodesk Maya" title="Autodesk Maya" height=48 />
+		<img src="/assets/maya.svg" alt="Autodesk Maya" title="Autodesk Maya" height=48 />
 	</a>
 		<a href="https://figma.com">
 		<img src="/assets/figma.svg" alt="Figma" title="Figma" height=48 />
