@@ -256,6 +256,13 @@
 	<a href="https://github.com/GreenComfyTea/RE-Village-Damage-Numbers">
 		<img height=144 src="/assets/re-village-damage-numbers-pin.svg" alt="RE Village Damage Numbers" title="RE Village Damage Numbers">
 	</a>
+	<br>
+	<a href="https://github.com/GreenComfyTea/RE-Village-Player-Health-Bar">
+		<img height=144 src="/assets/re-village-player-health-bar-pin.svg" alt="RE Village Player Health Bar" title="RE Village Player Health Bar">
+	</a>
+	<a href="https://github.com/GreenComfyTea/RE-Village-Journal-Notification">
+		<img height=144 src="/assets/re-village-journal-notification-pin.svg" alt="RE Village Journal Notification" title="RE Village Journal Notification">
+	</a>
 </p>
 
 ## Twitch Tools
