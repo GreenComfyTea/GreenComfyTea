@@ -103,6 +103,11 @@ jobs:
       - name: Download RE Village Damage Numbers Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re-village-damage-numbers&theme=radical' -o re-village-damage-numbers-pin.svg
 
+      - name: Download RE Village Player Health Bar Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re-village-player-health-bar&theme=radical' -o re-village-player-health-bar-pin.svg
+
+      - name: Download RE Village Journal Notification Pin File
+        run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=re-village-journal-notification&theme=radical' -o re-village-journal-notification-pin.svg
 
       - name: Download OBS Stats on Stream Pin File
         run: curl 'https://github-readme-stats-greencomfytea.vercel.app/api/pin/?username=greencomfytea&repo=obs-stats-on-stream&theme=radical' -o obs-stats-on-stream-pin.svg
